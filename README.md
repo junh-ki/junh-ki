@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junh-ki)](https://github.com/junh-ki/junh-ki)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=junh-ki)](https://github.com/junh-ki/junh-ki)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=junh_ki)](https://github.com/junh-ki/junh-ki)
